@@ -1,0 +1,23 @@
+{
+  "name": "table-tree",
+  "version": "1.0.0",
+  "description": "table tree",
+  "main": "main.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "style": "main.css",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "table",
+    "tree"
+  ],
+  "author": "ldx",
+  "license": "ISC"
+}
